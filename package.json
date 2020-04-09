@@ -8,6 +8,10 @@
   },
   "author": "jeanvi,xue",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeanvixue/element-ui-loader.git"
+  },
   "dependencies": {
     "loader-utils": "^2.0.0"
   },
