@@ -7,10 +7,10 @@ exports.tag = {
   'Breadcrumb': 'el-breadcrumb',
   'BreadcrumbItem': 'el-breadcrumb-item',
   'Button': 'el-button',
-  'ButtonGroup': 'el-button-group': 
+  'ButtonGroup': 'el-button-group',
   'Calendar': 'el-calendar',
   'Card': 'el-card',
-  'Carousel': 'el-carousel',,
+  'Carousel': 'el-carousel',
   'CarouselItem': 'el-carousel-item',
   'Cascader': 'el-cascader',
   'Checkbox': 'el-checkbox',
@@ -137,5 +137,5 @@ exports.prefixTag = {
   'el-tooltip': 'Tooltip',
   'el-transfer': 'Transfer',
   'el-tree': 'Tree',
-  'el-upload': 'Upload',
+  'el-upload': 'Upload'
 };
